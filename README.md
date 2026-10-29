@@ -50,9 +50,11 @@ it takes the 12v battery input from the xt60 and steps it down to +5V
 ## TJA1042T_3_CM_118
 CAN transceiver works with both 3V3 and 5v logic, cheap and easy to find online and in offline shops!!!!! Yes please
 
-<img width="1834" height="1210" alt="image" src="https://github.com/user-attachments/assets/f9989248-6c6a-4093-8223-d0661857b971" />
+<img width="1996" height="798" alt="image" src="https://github.com/user-attachments/assets/d8ec7281-312f-431f-bbbb-da244a86cefd" />
 
-<img width="1996" height="798" alt="image" src="https://github.com/user-attachments/assets/6fac4a6b-94ac-461c-a179-4f6c618b30ed" />
+
+<img width="1950" height="936" alt="image" src="https://github.com/user-attachments/assets/ef089524-8b0a-4049-9ebd-b84a750f23a9" />
+
 
 
 ## Arduino Mega 3.2’’ TFT hat
@@ -86,3 +88,6 @@ I recently got into illustrated flower artworks and decided that all my projects
 
 Why Nemophila? I absolutely adore this flower and its blue hue. I had the honour of witnessing its beauty in real life last year (2025) at Anime India Mumbai, where a Frieren cosplayer had made a tiara of them. Ever since then, their etherealness is stuck in my head. Also Rei Ayanami's hair colour is similar and gives the same feeling, and I am a big time EVA fan 
 <img width="2592" height="1944" alt="image" src="https://github.com/user-attachments/assets/2ffb9890-8d1c-435c-b716-f9487add0e32" />
+
+### <a href="https://github.com/blondchapri/project-Gulmohar">Project Gulmohar</a> © 2026 by <a href="https://github.com/blondchapri">shlok shukla</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
+# <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
