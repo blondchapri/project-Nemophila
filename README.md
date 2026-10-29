@@ -40,7 +40,7 @@ Highlighted parts are part of the UNO-Q subsystem.
 
 ## MP2338GTL-Z 
 I mean it’s a power supply\
-Why I chose it : [insert AI’s answer]\
+Why I chose it : [[insert AI’s answer]](https://github.com/blondchapri/project-Nemophila/blob/main/ai)\
 it takes the 12v battery input from the xt60 and steps it down to +5V
 <img width="2005" height="1061" alt="image" src="https://github.com/user-attachments/assets/b9f8aefb-c995-4c01-b84c-47d05528c91c" />
 
